@@ -2,6 +2,10 @@ This is a sample dashboard based on an imaginary tollway in Atlanta to demonstra
 
 This dynamic dashboard is developed using HTML, CSS, and JavaScript. Several open-source JavaScript libraries such as Plotly and Leaflet were used to create the interactive graphs and plots. R scripts were used to integrate all component of the dashboard.
 
+A hosted version can be found here:
+
+https://www.akmabir-shinyapps.com/demoexpress/
+
 To learn about the libraries please follow the following links:
 
 Leaflet:Leaflet for R .
